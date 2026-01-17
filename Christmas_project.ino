@@ -1,4 +1,5 @@
 //music based on HitBit <https://www.hibit.dev/posts/31/play-christmas-melody-with-arduino-and-a-buzzer>
+//for the music to work you need pitches.h
 // all my LEDS
 
 int ledPins[] = {5, 6};  // NEUE Pins - kein Konflikt mit Servo!
